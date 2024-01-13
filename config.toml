@@ -1,3 +1,11 @@
-baseURL = 'http://example.org/'
+baseURL = 'http://mrvoid918-github.io/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Void'
+theme = 'archie'
+
+[params]
+
+[[params.social]]
+name = "GitHub"
+icon = 'github'
+url = 'https://github.com/MrVoid918'
