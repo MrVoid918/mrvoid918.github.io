@@ -1,4 +1,4 @@
-baseURL = 'http://mrvoid918-github.io/'
+baseURL = 'https://mrvoid918-github.io/'
 languageCode = 'en-us'
 title = 'Void'
 theme = 'archie'
